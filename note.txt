@@ -6,6 +6,14 @@ E:\@Full Stack\The Complete PHP MYSQL Professional Course with 5 Projects
 weboutline::
 	html 5
 	css3
+	php
+	  Building Blocks of PHP	
+	  Super Global Post Variable
+	  Regular Expressions
+	  Form Validation Pro
+	  Dynamic Web Pages
+	  Powerful Super Global Variables
+	  
 	boostrapt 4
 	javascript
 	jquery

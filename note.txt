@@ -13,7 +13,6 @@ weboutline::
 	  Form Validation Pro
 	  Dynamic Web Pages
 	  Powerful Super Global Variables
-	  
 	boostrapt 4
 	javascript
 	jquery

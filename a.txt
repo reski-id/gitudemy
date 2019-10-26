@@ -1,1 +1,79 @@
-a.txt
+E:\@Full Stack\The Complete Web Developer in 2020 Zero to Mastery								
+E:\@Full Stack\The Complete 2019 Web Development Course - Build 15 Projects								
+E:\@Full Stack\Ultimate Web Designer & Developer Course Build 23 Projects!	
+E:\@Full Stack\Full Stack Web Development Masterclass Beginner To Advanced
+							
+weboutline::
+	html 5
+	css3
+	boostrapt 4
+	javascript
+	jquery
+	es6
+	dom manipulation
+	cmd
+	git
+	heroku
+	nmp
+	react.js
+	http jason ajax
+	backend basic
+	apis
+	node js + express js
+	vue js
+	wordpress
+	PostgeSQL
+	deployment production
+	mobile app
+
+
+-------------------------------------------------------------
+G:\PYTHON\@Djanggo\Python and Django Full Stack Web Developer Bootcamp								
+G:\PYTHON\@Djanggo\Backend web development with Django 2 - Build 8 projects								
+G:\PYTHON\@Djanggo\Python Django Dev To Deployment								
+outline:
+	HTML 
+	css
+	Bootstrap 
+	Javascript 
+	Document Object Model
+	jQuery
+	Python 
+	Django 
+	Getting the basics done
+	All about Templating
+	Interaction with Database
+	Blog with static pages and Unique URL
+	Handling forms and taking input from user
+	A CRUD blog from user input
+	A TODO list with sqlite3
+	Login, Logout and SignUp
+	Project Specs & Getting Started
+	Apps, URLs & Templates
+	Models, Migrations & Admin
+	View Methods, Display & Search
+	Accounts & Authentication
+	Contact Inquiries
+	Django Deployment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

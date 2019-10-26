@@ -2,7 +2,7 @@ E:\@Full Stack\The Complete Web Developer in 2020 Zero to Mastery
 E:\@Full Stack\The Complete 2019 Web Development Course - Build 15 Projects								
 E:\@Full Stack\Ultimate Web Designer & Developer Course Build 23 Projects!	
 E:\@Full Stack\Full Stack Web Development Masterclass Beginner To Advanced
-							
+E:\@Full Stack\The Complete PHP MYSQL Professional Course with 5 Projects							
 weboutline::
 	html 5
 	css3
@@ -55,25 +55,3 @@ outline:
 	Accounts & Authentication
 	Contact Inquiries
 	Django Deployment
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
